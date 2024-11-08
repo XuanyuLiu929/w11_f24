@@ -1,2 +1,1 @@
-# w11_f24
-JavaScript
+Week 11 JS Discussion
